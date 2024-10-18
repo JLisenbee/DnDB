@@ -1,0 +1,5 @@
+** CHARS table **
+Name: String, Not Null, Primary Key
+Race: String, Not Null, Primary Key
+Class: String, Not NNull, Primary Key
+
